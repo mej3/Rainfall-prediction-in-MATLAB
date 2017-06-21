@@ -8,7 +8,6 @@
 % (v) Compute average fold MSE for all folds Test MSEs                    %
 % Arguments: Input - fold no.,basic net model, input TS, target TS        %
 % Output - best model, best model's parameters, avg Test MSE for all folds%
-% Author: Mithu James, student MSc Data Science, CityUniversity of London %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 function [bestNetFromCV,bestParamFromCV,AvgCrossValidationMSE] = CrossValidationRNN(K,Network,Input,Target)
 rng(10);
