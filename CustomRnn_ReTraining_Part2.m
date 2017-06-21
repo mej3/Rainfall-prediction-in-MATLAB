@@ -6,7 +6,6 @@
 % (iii) Compute MSE for  model trained on entire training set             %
 % (iv) Compute test set error                                             %
 % (v) Retrieve weights and biases for final model                         %
-% Team: Mithu James & Shagun Khare, City, University of London              %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Initial parameters
 % rng(100);
