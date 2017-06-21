@@ -6,7 +6,6 @@
 % (iii) Provide MSEs for all trained models for model selection           %
 % (iv) Compute train error on entire train set & hold-out test set error  %
 % (v) Retrieve weights and biases forselected model                       %
-% Team: Mithu James & Shagun Khare, City, University of London            %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Variable initialisation
 clear all;close all;clc;
