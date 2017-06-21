@@ -6,7 +6,6 @@
 % Output - input time series and output time series                       %
 % Note: sample:Yes/No determines if sampling needs to be done by avoiding %
 % overlapping time series sequence                                        %
-% Author: Mithu James, student MSc Data Science, CityUniversity of London %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Create timeSeries
 function [inputTS targetTS] = generateDelayTimeSeries(filePathName,slidingWindow,subSample)
